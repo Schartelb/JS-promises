@@ -1,0 +1,19 @@
+#card-pile.HEARTS {
+    color: crimson;
+}
+
+#card-pile.DIAMONDS {
+    color: maroon;
+}
+
+#card-pile.CLUBS {
+    color: #292929;
+}
+
+#card-pile.SPADES {
+    color: #4d4d4d;
+}
+
+#card-draw {
+    align-self: center;
+}
